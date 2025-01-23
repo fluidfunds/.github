@@ -4,7 +4,7 @@
 
 FluidFund enables investors to contribute continuously to a fund manager's pool via Superfluid streams. The fund manager invests the pooled USDC on behalf of the investors. This README explains the backend smart contract architecture and the integration with decentralized exchanges (DEXs) like Uniswap, utilizing whitelabeled tokens for trading.
 
-![FluidFunds](https://github.com/fluidfunds/fluidfunds-app-v0/blob/main/design/Screenshot%202025-01-23%20at%208.14.26%E2%80%AFAM.png)
+![FluidFunds](https://github.com/fluidfunds/fluidfunds-app-v0/blob/main/design/Screenshot%202025-01-23%20at%208.50.25%E2%80%AFAM.png)
 
 ---
 
